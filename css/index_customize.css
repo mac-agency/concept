@@ -480,15 +480,44 @@ vertical-align:bottom;
   background-color: rgba(70,107,144,0.41);
 }
 
+.kasou_title2 {
+  font-size: 32px;
+  line-height: 1.5em;
+  color: hsla(0,0%,0%,0.65);
+  font-weight: bold;
+  text-align: center;
+}
+
 
 
 @media (max-width:320px){
+
+.kasou_title2 {
+  font-size: 19px;
+  line-height: 1.5em;
+  color: hsla(0,0%,0%,0.75);
+  font-weight: bold;
+}
 }
 
 @media (max-width:375px) and (min-width:321px){
+
+.kasou_title2 {
+  font-size: 19px;
+  line-height: 1.5em;
+  color: hsla(0,0%,0%,0.75);
+  font-weight: bold;
+}
 }
 
 @media (max-width:414px) and (min-width:376px){
+
+.kasou_title2 {
+  font-size: 22px;
+  line-height: 1.5em;
+  color: hsla(0,0%,0%,0.75);
+  font-weight: bold;
+}
 }
 
 @media (max-width:568px) and (min-width:415px){
