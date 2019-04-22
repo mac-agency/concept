@@ -199,6 +199,7 @@ body > section {
 .section_padding {
   padding-top: 50px;
   padding-bottom: 50px;
+  clear: both;
 }
 
 .hero_contact {
