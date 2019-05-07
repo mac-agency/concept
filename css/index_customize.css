@@ -427,7 +427,7 @@ vertical-align:bottom;
 
 .footer_font1 {
   list-style: none;
-  font-size: 14px;
+  font-size: 13px;
   color: hsla(0,0%,80%,1.00);
   padding-left: 0px;
 }
@@ -486,6 +486,10 @@ vertical-align:bottom;
   color: hsla(0,0%,0%,0.65);
   font-weight: bold;
   text-align: center;
+}
+
+.logo_width {
+  width: 120px;
 }
 
 
